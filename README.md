@@ -1,0 +1,1 @@
+Open App.js inside src folder to learn more about jsx.
